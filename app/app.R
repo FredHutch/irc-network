@@ -120,7 +120,10 @@ server <- function(input, output, session) {
       visRemoveEdges(id = setdiff(old_edges$id, new_edges$id)) %>%
       visRemoveNodes(id = setdiff(old_nodes$id, new_nodes$id)) %>%
       visUpdateNodes(nodes = new_nodes) %>%
-      visUpdateEdges(edges = new_edges)
+      visUpdateEdges(edges = new_edges) %>%
+      visOptions(
+        nodesIdSelection = list(main = "Select by member")
+      )
   })
   
   output$network_proxy_update <- renderVisNetwork({
@@ -137,12 +140,18 @@ server <- function(input, output, session) {
       ) %>%
       # visPhysics(barnesHut = list(gravitationalConstant = -5000)) %>%
       # visPhysics(stabilization = FALSE) %>%
+      visPhysics(maxVelocity = 10) %>%
       visEdges(
         color = list(color = "#848484", highlight = "red", hover = "red"),
         # smooth = FALSE
       ) %>%
       visNodes(size = 20, color = list(hover = list(border = "red"))) %>%
-      visLegend(position = "right", addNodes = colors, useGroups = FALSE, ncol = 2) %>%
+      visLegend(
+        position = "right",
+        addNodes = colors,
+        useGroups = FALSE,
+        ncol = 2 
+      ) %>%
       visInteraction(
         hover = TRUE,
         hoverConnectedEdges = TRUE,
@@ -198,12 +207,12 @@ ui <- fluidPage(
         label = "Year",
         choices = c("2013-15", "2014-16", "2015-17", "2016-18", "2017-19"),
         # selected = "2015-17",
-        animate = list(interval = 2000, loop = FALSE)
+        animate = list(interval = 4000, loop = FALSE)
       ),
       verbatimTextOutput("summary")
     ),
     mainPanel(
-      visNetworkOutput("network_proxy_update", height = "500px")
+      visNetworkOutput("network_proxy_update", height = "550px")
     )
   )
 )
