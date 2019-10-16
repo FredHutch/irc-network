@@ -1,0 +1,163 @@
+"Name","Last","First","Division","Primary.Division","Secondary.Division","Institution","Faculty.Rank","TDS","IIRC","PAM"
+"Adair, Jennifer","Adair","Jennifer","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",TRUE,TRUE,FALSE
+"Bansal, Aasthaa","Bansal","Aasthaa","UW","UW",NA,"University of Washington","Assistant Professor",TRUE,FALSE,FALSE
+"Bedford, Trevor","Bedford","Trevor","VIDD,PHS","VIDD","PHS","Fred Hutchinson","Assistant Member",TRUE,FALSE,TRUE
+"Berger, Alice","Berger","Alice","HB","HB",NA,"Fred Hutchinson","Assistant Member",TRUE,FALSE,FALSE
+"Bielas, Jason","Bielas","Jason","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,TRUE,FALSE
+"Biggins, Sue","Biggins","Sue","BS","BS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Bloom, Jesse","Bloom","Jesse","BS,PHS","BS","PHS","Fred Hutchinson","Associate Member",TRUE,FALSE,TRUE
+"Bradley, Philip","Bradley","Phil","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,TRUE,FALSE
+"Bradley, Robert","Bradley","Robert","BS,PHS","BS","PHS","Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Brown, Elizabeth","Brown","Elizabeth","VIDD","VIDD",NA,"Fred Hutchinson","Faculty Statistician, BBE Faculty",TRUE,FALSE,FALSE
+"Chen, Ying","Chen","Ying","VIDD","VIDD",NA,"Fred Hutchinson","Faculty Statistician, BBE Faculty",TRUE,FALSE,FALSE
+"Clurman, Bruce","Clurman","Bruce","CRD","CRD",NA,"Fred Hutchinson","Full Member",TRUE,TRUE,FALSE
+"Dai, James","Dai","James","PHS","PHS",NA,"Fred Hutchinson","Associate Member",TRUE,FALSE,FALSE
+"Davidson, Nancy","Davidson","Nancy","CRD","CRD",NA,"Fred Hutchinson","Sr. VP, Member",TRUE,FALSE,FALSE
+"Di, Chongzhi","Di","Chongzhi","PHS","PHS",NA,"Fred Hutchinson","Associate Member",TRUE,FALSE,FALSE
+"Donnell, Deborah","Donnell","Deborah","VIDD","VIDD",NA,"Fred Hutchinson","Member, BBE Faculty",TRUE,FALSE,FALSE
+"Eisenman, Robert","Eisenman","Robert","BS","BS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Etzioni, Ruth","Etzioni","Ruth","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Feng, Ziding","Feng","Ziding","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,TRUE
+"Fong, Youyi","Fong","Youyi","VIDD","VIDD",NA,"Fred Hutchinson","Associate Member, BBE Faculty",TRUE,FALSE,FALSE
+"Fredricks, David","Fredricks","David","CRD,VIDD","CRD","VIDD","Fred Hutchinson","Member",TRUE,FALSE,TRUE
+"Galloway, Denise","Galloway","Denise","HB,PHS","HB","PHS","Fred Hutchinson","Member",TRUE,TRUE,TRUE
+"Ghajar, Cyrus","Ghajar","Cyrus","PHS","PHS",NA,"Fred Hutchinson","Assistant Member",TRUE,TRUE,FALSE
+"Gilbert, Peter","Gilbert","Peter","VIDD","VIDD",NA,"Fred Hutchinson","Member, BBE Faculty",TRUE,FALSE,FALSE
+"Gottardo, Raphael","Gottardo","Raphael","VIDD,PHS","VIDD","PHS","Fred Hutchinson","Member",TRUE,TRUE,TRUE
+"Ha, Gavin","Ha","Gavin","PHS","PHS",NA,"Fred Hutchinson","Assistant Member",TRUE,FALSE,FALSE
+"Hadland, Brandon","Hadland","Brandon","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",TRUE,FALSE,FALSE
+"Halloran, M. Elizabeth","Halloran","Betz","VIDD","VIDD",NA,"Fred Hutchinson","Member, BBE Faculty",TRUE,FALSE,FALSE
+"Harris, Kelley","Harris","Kelley","UW,PHS","UW","PHS","University of Washington","Joint Assistant Member",TRUE,FALSE,FALSE
+"He, Qianchuan","He","Qianchuan (Chad)","PHS","PHS",NA,"Fred Hutchinson","Associate Member",TRUE,FALSE,FALSE
+"Henikoff, Steven","Henikoff","Steven","BS","BS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Hill, Joshua","Hill","Joshua","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",TRUE,TRUE,FALSE
+"Hsu, Li","Hsu","Li","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Huang, Ying","Huang","Ying","VIDD","VIDD",NA,"Fred Hutchinson","Member, BBE Faculty",TRUE,FALSE,FALSE
+"Hyrien, Ollivier","Hyrien","Ollivier","VIDD","VIDD",NA,"Fred Hutchinson","Member, BBE Faculaty",TRUE,FALSE,FALSE
+"Janes, Holly","Janes","Holly","VIDD","VIDD",NA,"Fred Hutchinson","Faculty Statistician, BBE",TRUE,FALSE,FALSE
+"Kemp, Christopher","Kemp","Christopher","HB","HB",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Kiem, Hans-Peter","Kiem","Hans-Peter","CRD","CRD",NA,"Fred Hutchinson","Member",TRUE,TRUE,TRUE
+"Kooperberg, Charles","Kooperberg","Charles","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"LeBlanc, Michael","LeBlanc","Michael","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Lee, John","Lee","John","HB,CRD","HB","CRD","Fred Hutchinson","Assistant Member",TRUE,TRUE,FALSE
+"Lindstroem, Sara","Lindstroem","Sara","UW,PHS","UW","PHS","University of Washington","Assistant Member",TRUE,FALSE,FALSE
+"Luebeck, Georg","Luebeck","Georg","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Ma, Jing","Ma","Jing","PHS","PHS",NA,"Fred Hutchinson","Assistant Member",TRUE,FALSE,FALSE
+"MacPherson, David","MacPherson","David","HB","HB",NA,"Fred Hutchinson","Associate Member",TRUE,FALSE,FALSE
+"Matsen, Frederick","Matsen","Erick","PHS","PHS",NA,"Fred Hutchinson","Associate Member",TRUE,TRUE,TRUE
+"Newell, Evan","Newell","Evan","VIDD","VIDD",NA,"Fred Hutchinson","Associate Member",TRUE,TRUE,TRUE
+"Othus, Megan","Othus","Megan","PHS","PHS",NA,"Fred Hutchinson","Associate Member",TRUE,FALSE,FALSE
+"Peters, Ulrike","Peters","Ulrike","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Pierce, Robert","Pierce","Robert","CRD","CRD",NA,"Fred Hutchinson","Member",TRUE,TRUE,TRUE
+"Randolph, Timothy","Randolph","Tim","CRD,PHS","CRD","PHS","Fred Hutchinson","Joint Associate Member",TRUE,FALSE,FALSE
+"Riddell, Stanley","Riddell","Stanley","CRD","CRD",NA,"Fred Hutchinson","Member",TRUE,TRUE,TRUE
+"Robins, Harlan","Robins","Harlan","PHS,HB","PHS","HB","Fred Hutchinson","Member",TRUE,TRUE,TRUE
+"Salama, Nina","Salama","Nina","HB,PHS","HB","PHS","Fred Hutchinson","Member",TRUE,FALSE,TRUE
+"Schiffer, Joshua","Schiffer","Joshua ","VIDD,CRD","VIDD","CRD","Fred Hutchinson","Associate Member",TRUE,FALSE,TRUE
+"Strong, Roland","Strong","Roland","BS,VIDD","BS","VIDD","Fred Hutchinson","Member",TRUE,TRUE,TRUE
+"Subramaniam, Arvind","Subramaniam","Avind","BS,VIDD","BS","VIDD","Fred Hutchinson","Assistant Member",TRUE,FALSE,FALSE
+"Sun, Wei","Sun","Wei","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,TRUE,FALSE
+"Tapscott, Stephen","Tapscott","Stephen","HB,CRD","HB","CRD","Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Trunnell, Matthew","Trunnell","Matthew","HDC","HDC",NA,"Fred Hutchinson","VP & Chief Data Officer",TRUE,FALSE,FALSE
+"Turtle, Cameron","Turtle","Cameron","CRD","CRD",NA,"Fred Hutchinson","Associate Member",TRUE,TRUE,FALSE
+"Uldrick, Thomas","Uldrick","Thomas ","VIDD,CRD","VIDD","CRD","Fred Hutchinson","Associate Member",TRUE,FALSE,TRUE
+"Unger, Joseph","Unger","Joseph","PHS","PHS",NA,"Fred Hutchinson","Assistant Member",TRUE,FALSE,FALSE
+"Wang, Ching-Yun","Wang","Ching-Yun (C.Y.)","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Warren, Edus","Warren","Edus","CRD","CRD",NA,"Fred Hutchinson","Member",TRUE,TRUE,TRUE
+"Wu, Michael","Wu","Michael","PHS","PHS",NA,"Fred Hutchinson","Associate Member",TRUE,FALSE,FALSE
+"Wu, Qian","Wu","Vicky","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",TRUE,TRUE,FALSE
+"Zager, Michael","Zager","Michael","HDC","HDC",NA,"Fred Hutchinson","N/A",TRUE,FALSE,FALSE
+"Zhao, Lue Ping","Zhao","Lue Ping","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Zhao, Yingqi","Zhao","Yingqi","PHS","PHS",NA,"Fred Hutchinson","Associate Member",TRUE,FALSE,FALSE
+"Zheng, Yingye","Zheng","Yingye","PHS","PHS",NA,"Fred Hutchinson","Member",TRUE,FALSE,FALSE
+"Appelbaum, Frederick","Appelbaum","Fred","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Bar, Merav","Bar","Merav","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Bleakley, Marie","Bleakley","Marie","CRD","CRD",NA,"Fred Hutchinson","Associate Member",FALSE,TRUE,FALSE
+"Boeckh, Michael","Boeckh","Michael","VIDD,CRD","VIDD","CRD","Fred Hutchinson","Member",FALSE,TRUE,TRUE
+"Chapuis, Aude","Chapuis","Aude","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,TRUE
+"Cheever, Martin","Cheever","Mac","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,TRUE
+"Dudakov, Jarrod","Dudakov","Jarrod","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Green, Damian","Green","Damian","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Greenberg, Philip","Greenberg","Philip","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,TRUE
+"Gujral, Taranjit","Gujral","Taran","HB","HB",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Headley, Mark","Headley","Mark","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Hill, Geoffrey","Hill","Geoffrey","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Hockenbery, David","Hockenbery","David","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Holland, Eric","Holland","Eric","HB","HB",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Houghton, McGarry","Houghton","McGarry","CRD,HB","CRD","HB","Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Jensen, Michael","Jensen","Michael","Affiliate","Affiliate",NA,"Seattle Children's Research Institute","Professor",FALSE,TRUE,FALSE
+"Koch, Meghan","Koch","Meghan","BS","BS",NA,"Fred Hutchinson","Assistant",FALSE,TRUE,TRUE
+"Lee, Sylvia","Lee","Sylvia","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Maloney, David","Maloney","David","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Martins, Renato","Martins","Renato","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,TRUE
+"McElrath, Juliana","McElrath","Julie","VIDD,CRD","VIDD","CRD","Fred Hutchinson","Member",FALSE,TRUE,TRUE
+"McIntosh, Martin","McIntosh","Martin","PHS","PHS",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Milano, Filippo","Milano","Filippo","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Moens, Cecilia","Moens","Cecilia","BS","BS",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Nghiem, Paul","Nghiem","Paul","UW","UW",NA,"University of Washington","Professor",FALSE,TRUE,TRUE
+"Phipps, Warren","Phipps","Warren","VIDD","VIDD",NA,"Fred Hutchinson","Associate Member",FALSE,TRUE,TRUE
+"Pollack, Seth","Pollack","Seth","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Prlic, Martin","Prlic","Martin","VIDD","VIDD",NA,"Fred Hutchinson","Associate Member",FALSE,TRUE,TRUE
+"Rengan, Ramesh","Rengan","Ramesh","CRD","CRD",NA,"Fred Hutchinson","Associate Member",FALSE,TRUE,FALSE
+"Rongvaux, Anthony","Rongvaux","Anthony","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Sandmaier, Brenda","Sandmaier","Brenda","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Specht, Jennifer","Specht","Jennifer","UW,CRD","UW","CRD","University of Washington","Joint Associate Member",FALSE,TRUE,FALSE
+"Stephan, Matthias","Stephan","Mattias","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Stoddard, Barry","Stoddard","Barry","BS","BS",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Taylor, Justin","Taylor","Justin","VIDD","VIDD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,TRUE
+"Thompson, John","Thompson","John","CRD","CRD",NA,"Fred Hutchinson","Member",FALSE,TRUE,FALSE
+"Till, Brian","Till","Brian","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,TRUE,FALSE
+"Walter, Roland","Walter","Roland","CRD","CRD",NA,"Fred Hutchinson","Associate Member",FALSE,TRUE,FALSE
+"Avgousti, Daphne","Avgousti","Daphne","HB","HB",NA,"Fred Hutchinson","Assistant Member",FALSE,FALSE,TRUE
+"Barber, Brittany","Barber","Brittany","UW","UW",NA,"University of Washington","Assistant",FALSE,FALSE,TRUE
+"Barnabas, Ruanne","Barnabas","Ruanne","UW","UW",NA,"University of Washington","Assistant Professor",FALSE,FALSE,TRUE
+"Bender Ignacio, Rachel","Bender Ignacio","Rachel","VIDD","VIDD",NA,"Fred Hutchinson","Associate",FALSE,FALSE,TRUE
+"Bhatia, Shailender","Bhatia","Shailender","CRD","CRD",NA,"Fred Hutchinson","Assistant Member",FALSE,FALSE,TRUE
+"Bullman, Susan","Bullman","Susan","HB","HB",NA,"Fred Hutchinson","Assistant Professor",FALSE,FALSE,TRUE
+"Casper, Corey","Casper","Corey","Affiliate","Affiliate",NA,"Infectious Disease Research Institute","Member",FALSE,FALSE,TRUE
+"Chen, Chu","Chen","Chu","PHS","PHS",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Chung, Michael","Chung","Michael","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Corey, Larry","Corey","Larry","VIDD,CRD,PHS","VIDD","CRD","Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"de Sanjose, Silvia","de Sanjose","Silvia","Affiliate","Affiliate",NA,"PATH","Professor",FALSE,FALSE,TRUE
+"DePaolo, William","DePaolo","William","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Dey, Neelendu","Dey","Neel","CRD","CRD",NA,"Fred Hutchinson","Assistant",FALSE,FALSE,TRUE
+"Emerman, Michael","Emerman","Michael","HB,BS","HB","BS","Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Fitzmaurice, Christina","Fitzmaurice","Tina","UW","UW",NA,"University of Washington","Assistant Professor",FALSE,FALSE,TRUE
+"Frenkel, Lisa","Frenkel","Lisa","Affiliate","Affiliate",NA,"Seattle Children's Research Institute","Professor",FALSE,FALSE,TRUE
+"Gale, Michael","Gale","Michael","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
+"Gantt, Soren","Gantt","Soren","Affiliate","Affiliate",NA,"University of British Columbia","Associate Professor",FALSE,FALSE,TRUE
+"Geballe, Adam","Geballe","Adam","HB,CRD","HB","CRD","Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Grady, William","Grady","Bill","CRD,PHS","CRD","PHS","Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Hawes, Stephen","Hawes","Steve","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Hladik, Florian","Hladik","Florian ","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
+"Jerome, Keith","Jerome","Keith","VIDD","VIDD",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Johnston, Christopher","Johnston","Christopher","VIDD","VIDD",NA,"Fred Hutchinson","Assistant Professor",FALSE,FALSE,TRUE
+"Ko, Linda","Ko","Linda","PHS","PHS",NA,"Fred Hutchinson","Associate",FALSE,FALSE,TRUE
+"Koelle, David","Koelle","David","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
+"Lagunoff, Michael","Lagunoff","Michael","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
+"Lampe, Johanna","Lampe","Johanna","PHS","PHS",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Lingappa, Jaisri","Lingappa","Jaisri","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
+"Madeleine, Margaret","Madeleine","Margaret","PHS","PHS",NA,"Fred Hutchinson","Associate Member",FALSE,FALSE,TRUE
+"Malik, Harmit","Malik","Harmit","BS","BS",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"McGuire, Andrew","McGuire","Andy","VIDD","VIDD",NA,"Fred Hutchinson","Assistant Member",FALSE,FALSE,TRUE
+"Menon, Manoj","Menon","Manoj","VIDD","VIDD",NA,"Fred Hutchinson","Assistant Member",FALSE,FALSE,TRUE
+"Mugo, Nelly","Mugo","Nelly","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Overbaugh, Julie","Overbaugh","Julie","HB,PHS","HB","PHS","Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Polyak, Stephen","Polyak","Steve","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
+"Ramsey, Scott","Ramsey","Scott","PHS","PHS",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Rodriguez, Cristina","Rodriguez","Christina","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Roman, Ann","Roman","Ann","HB","HB",NA,"Fred Hutchinson","Visiting Investigator",FALSE,FALSE,TRUE
+"Rose, Timothy","Rose","Tim","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
+"Savan, Ram","Savan","Ram","UW","UW",NA,"University of Washington","Associate",FALSE,FALSE,TRUE
+"Schwartz, Stephen","Schwartz","Steve","PHS","PHS",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Scott, John","Scott","John","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Shah, Parth","Shah","Parth","PHS","PHS",NA,"Fred Hutchinson","Assistant",FALSE,FALSE,TRUE
+"Smith, Jason","Smith","Jason","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Stamatatos, Leonidas","Stamatatos","Leo","VIDD","VIDD",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Stetson, Daniel","Stetson","Dan","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Thompson, Beti","Thompson","Beti","PHS","PHS",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Wald, Anna","Wald","Anna","VIDD","VIDD",NA,"Fred Hutchinson","Member",FALSE,FALSE,TRUE
+"Wasserheit, Judith","Wasserheit","Judy","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
+"Winer, Rachel","Winer","Rachel","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Xi, Long Fu","Xi","Long Fu","UW","UW",NA,"University of Washington","Associate Professor",FALSE,FALSE,TRUE
+"Yeh, Matthew","Yeh","Matthew","UW","UW",NA,"University of Washington","Professor",FALSE,FALSE,TRUE
