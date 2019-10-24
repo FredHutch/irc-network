@@ -1,0 +1,9 @@
+version: '2'
+services:
+  irc-network:
+    image: dockerimages.fhcrc.org/irc-network:latest
+
+    labels:
+      io.rancher.container.pull_image: always
+
+    restart: always
